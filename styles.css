@@ -20,10 +20,12 @@ section, header, footer {
 }
 
 h2 {
+    color: Indigo;
     font-variant: small-caps;
 }
 
 h3 {
+    color: DarkSlateBlue;
     font-style: italic;
     font-size: 14px;
 }
