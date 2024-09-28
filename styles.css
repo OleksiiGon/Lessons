@@ -1,0 +1,34 @@
+
+#Chernihiv-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #020000;
+    margin-bottom: 10px;
+    
+}
+section, header, footer {
+    display: block;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+footer {
+   margin-bottom: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.caption {
+    font-style: italic;
+}
+
+.comment {
+    font-style: italic;
+}
